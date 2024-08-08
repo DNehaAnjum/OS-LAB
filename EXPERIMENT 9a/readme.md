@@ -5,4 +5,4 @@
 ![FCFS_IO_559](FCFS_IO_559.png)
 
 # Executed Output
-![FCFS_EO_559](FCFS_EO_559.png)
+![FCFS_E0_559](FCFS_E0_559.png)
